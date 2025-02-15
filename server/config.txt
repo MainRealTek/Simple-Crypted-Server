@@ -1,0 +1,3 @@
+servermacaddr: ff:ff:ff:ff:ff:ff
+whitelist: ff:ff:ff:ff:ff:ff
+interface: eno1
